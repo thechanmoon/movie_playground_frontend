@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movie_playground/static/css/main.f45bfcdc.chunk.css",
+    "main.js": "/movie_playground/static/js/main.b12297b0.chunk.js",
+    "main.js.map": "/movie_playground/static/js/main.b12297b0.chunk.js.map",
+    "runtime-main.js": "/movie_playground/static/js/runtime-main.d12fd10a.js",
+    "runtime-main.js.map": "/movie_playground/static/js/runtime-main.d12fd10a.js.map",
+    "static/js/2.a607c992.chunk.js": "/movie_playground/static/js/2.a607c992.chunk.js",
+    "static/js/2.a607c992.chunk.js.map": "/movie_playground/static/js/2.a607c992.chunk.js.map",
+    "index.html": "/movie_playground/index.html",
+    "precache-manifest.5440a88053c4a9b154e40f16c85cb3b0.js": "/movie_playground/precache-manifest.5440a88053c4a9b154e40f16c85cb3b0.js",
+    "service-worker.js": "/movie_playground/service-worker.js",
+    "static/css/main.f45bfcdc.chunk.css.map": "/movie_playground/static/css/main.f45bfcdc.chunk.css.map",
+    "static/js/2.a607c992.chunk.js.LICENSE.txt": "/movie_playground/static/js/2.a607c992.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/movie_playground/static/media/logo_playground.0028a598.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d12fd10a.js",
+    "static/js/2.a607c992.chunk.js",
+    "static/css/main.f45bfcdc.chunk.css",
+    "static/js/main.b12297b0.chunk.js"
+  ]
+}
