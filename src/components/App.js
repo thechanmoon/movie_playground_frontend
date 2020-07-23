@@ -74,7 +74,8 @@ class App extends React.Component {
       />
       <main>
         <Switch>
-          <Route exact path="/" render={() => <h1>Home</h1>} />
+          {/* <Route exact path="/" render={() => <h1>Home</h1>} /> */}
+          <Route exact path="/" render={routeProps => <ListingsContainer {...routeProps} searchTerm={this.state.searchTerm} indexTerm={this.state.indexTerm}/>} />
           <Route path="/login" render={routeProps => <LoginForm {...routeProps} handleUpdateCurrentUser={this.handleUpdateCurrentUser} />} />
           <Route path="/signup" render={routeProps => <SignupForm {...routeProps} handleUpdateCurrentUser={this.handleUpdateCurrentUser} />} />
           <Route path="/actors/:id" render={routeProps => <ActorDetail  {...routeProps} />} />
